@@ -3,4 +3,8 @@ Program to use a list of preset words to generate a password.
 
 Example: sky32boat43
 
-NOTE: The list of words is intentionally simple. It is recommended to pull a list of more complex/different words for added security.
+Instructions:
+1. Put the .exe file in a folder with the words.txt file.
+2. (recommended) Replace the words in words.txt with better words.
+3. Run the .exe file and follow the directions :)
+
